@@ -1,10 +1,14 @@
 ---------------------------------------------------------------------------------------------------------------------------
 
 Guardyti(Guard Python Technology Information)
+
 Version : 1.0
+
 Developed by : Ananda Rauf Maududi / Retail Tech Source
+
 Developed date : 08 February 2021.
 
+![alttext]("https://raw.githubusercontent.com/AnandaRauf/Guardti/master/harry-potter-and-the-philosopher-s-stone-sorting-hat-slytherin-house-hogwarts-harry-potter-8989dfc0d4a5804f56fd6cfc3a4b7ae1.png")
 ----------------------------------------------------------------------------------------------------------------------------
 
 ----------------------------------------------------------------------------------------------------------------------------
