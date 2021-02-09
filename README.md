@@ -16,6 +16,10 @@ English :
 
 Guardy is software for protect from crime cyber and negative internet.
 
+lokasi_host = change located host your PC
+For app : lokasi_hosted = change located host your mobile
+Block apps for block url playstore, example you want blocked Vtube.
+
 Feature : 
 - Block website.
 - Block Apps.
@@ -25,6 +29,10 @@ Feature :
 Indonesia :
 
 Guardyti ialah software untuk melindungi dari kriminal cyber dan internet negatif.
+
+lokasi_host = ganti lokasi host sesuai PC anda.
+Untuk blokir aplikasi itu untuk blokir url aplikasi Playstore.
+Ganti lokasi_hosted = ganti lokasi host hp anda.
 
 Fitur :
 - Blokir website.
